@@ -22,3 +22,5 @@ Although new technologies like real estate tokenization have lots of advantages,
 - [Predictive Analytics in Real Estate](https://www.propacity.in/blog/category/technology/)
 - [Russian real estate booms](https://www.reuters.com/article/russia-realestate-idINL8N2IC4OU)
 - [Moscow Real Estate Prices](https://www.themoscowtimes.com/2019/04/12/explore-life-after-life-in-st-petersburg-a65220)
+
+*Petar Dimitrievski , March 2022*
